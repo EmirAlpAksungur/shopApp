@@ -1,0 +1,325 @@
+{
+  "telephone": [
+    {
+      "id": 1,
+      "title": "iphone 7",
+      "explanation": "good phone",
+      "price": "250$",
+      "imgUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-family-select-2021?wid=940&hei=1112&fmt=jpeg&qlt=90&.v=1617135051000"
+    },
+    {
+      "id": 2,
+      "title": "iphone 8",
+      "explanation": "good phone",
+      "price": "275$",
+      "imgUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-family-select-2021?wid=940&hei=1112&fmt=jpeg&qlt=90&.v=1617135051000"
+    },
+    {
+      "id": 3,
+      "title": "iphone 9",
+      "explanation": "good phone",
+      "price": "300$",
+      "imgUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-family-select-2021?wid=940&hei=1112&fmt=jpeg&qlt=90&.v=1617135051000"
+    },
+    {
+      "id": 4,
+      "title": "iphone 10",
+      "explanation": "good phone",
+      "price": "350$",
+      "imgUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-family-select-2021?wid=940&hei=1112&fmt=jpeg&qlt=90&.v=1617135051000"
+    },
+    {
+      "id": 5,
+      "title": "iphone 11",
+      "explanation": "good phone",
+      "price": "400$",
+      "imgUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-family-select-2021?wid=940&hei=1112&fmt=jpeg&qlt=90&.v=1617135051000"
+    },
+    {
+      "id": 6,
+      "title": "iphone 12",
+      "explanation": "good phone",
+      "price": "420$",
+      "imgUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-family-select-2021?wid=940&hei=1112&fmt=jpeg&qlt=90&.v=1617135051000"
+    },
+    {
+      "id": 7,
+      "title": "iphone 13",
+      "explanation": "good phone",
+      "price": "450$",
+      "imgUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-family-select-2021?wid=940&hei=1112&fmt=jpeg&qlt=90&.v=1617135051000"
+    },
+    {
+      "id": 8,
+      "title": "iphone 13mini",
+      "explanation": "good phone",
+      "price": "430$",
+      "imgUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-family-select-2021?wid=940&hei=1112&fmt=jpeg&qlt=90&.v=1617135051000"
+    },
+    {
+      "id": 9,
+      "title": "iphone 7s plus",
+      "explanation": "good phone",
+      "price": "280$",
+      "imgUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-family-select-2021?wid=940&hei=1112&fmt=jpeg&qlt=90&.v=1617135051000"
+    },
+    {
+      "id": 10,
+      "title": "iphone 8 mini",
+      "explanation": "good phone",
+      "price": "280$",
+      "imgUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-family-select-2021?wid=940&hei=1112&fmt=jpeg&qlt=90&.v=1617135051000"
+    },
+    {
+      "id": 11,
+      "title": "iphone 8 mini",
+      "explanation": "good phone",
+      "price": "270$",
+      "imgUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-family-select-2021?wid=940&hei=1112&fmt=jpeg&qlt=90&.v=1617135051000"
+    }
+  ],
+  "computer": [
+    {
+      "id": 1,
+      "title": "macbook",
+      "explanation": "good computer",
+      "price": "250$",
+      "imgUrl": "https://as-images.apple.com/is/HA244?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1631831826000"
+    },
+    {
+      "id": 2,
+      "title": "macbook pro",
+      "explanation": "good computer",
+      "price": "275$",
+      "imgUrl": "https://as-images.apple.com/is/HA244?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1631831826000"
+    },
+    {
+      "id": 3,
+      "title": "dell",
+      "explanation": "good computer",
+      "price": "300$",
+      "imgUrl": "https://as-images.apple.com/is/HA244?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1631831826000"
+    },
+    {
+      "id": 4,
+      "title": "lenova",
+      "explanation": "good computer",
+      "price": "350$",
+      "imgUrl": "https://as-images.apple.com/is/HA244?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1631831826000"
+    },
+    {
+      "id": 5,
+      "title": "asus",
+      "explanation": "good computer",
+      "price": "400$",
+      "imgUrl": "https://as-images.apple.com/is/HA244?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1631831826000"
+    },
+    {
+      "id": 6,
+      "title": "macbook1",
+      "explanation": "good computer",
+      "price": "420$",
+      "imgUrl": "https://as-images.apple.com/is/HA244?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1631831826000"
+    },
+    {
+      "id": 7,
+      "title": "macbook6",
+      "explanation": "good computer",
+      "price": "450$",
+      "imgUrl": "https://as-images.apple.com/is/HA244?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1631831826000"
+    },
+    {
+      "id": 8,
+      "title": "macbook2",
+      "explanation": "good computer",
+      "price": "430$",
+      "imgUrl": "https://as-images.apple.com/is/HA244?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1631831826000"
+    },
+    {
+      "id": 9,
+      "title": "macbook3",
+      "explanation": "good computer",
+      "price": "280$",
+      "imgUrl": "https://as-images.apple.com/is/HA244?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1631831826000"
+    },
+    {
+      "id": 10,
+      "title": "macbook4",
+      "explanation": "good computer",
+      "price": "280$",
+      "imgUrl": "https://as-images.apple.com/is/HA244?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1631831826000"
+    },
+    {
+      "id": 11,
+      "title": "macbook5",
+      "explanation": "good computer",
+      "price": "270$",
+      "imgUrl": "https://as-images.apple.com/is/HA244?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1631831826000"
+    },
+    {
+      "title": "iphone 8 mini",
+      "explanation": "good phone",
+      "price": "270$",
+      "imgUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-family-select-2021?wid=940&hei=1112&fmt=jpeg&qlt=90&.v=1617135051000",
+      "id": 12
+    }
+  ],
+  "shoe": [
+    {
+      "id": 1,
+      "title": "nike",
+      "explanation": "good shoe",
+      "price": "250$",
+      "imgUrl": "https://cdn-ss.akinon.net/products/2022/02/11/284992/33a83865-09d5-478f-96e8-947748b22960.jpg"
+    },
+    {
+      "id": 2,
+      "title": "puma",
+      "explanation": "good shoe",
+      "price": "275$",
+      "imgUrl": "https://cdn-ss.akinon.net/products/2022/02/11/284992/33a83865-09d5-478f-96e8-947748b22960.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Lumberjack",
+      "explanation": "good shoe",
+      "price": "300$",
+      "imgUrl": "https://cdn-ss.akinon.net/products/2022/02/11/284992/33a83865-09d5-478f-96e8-947748b22960.jpg"
+    },
+    {
+      "id": 4,
+      "title": "adidas",
+      "explanation": "good shoe",
+      "price": "350$",
+      "imgUrl": "https://cdn-ss.akinon.net/products/2022/02/11/284992/33a83865-09d5-478f-96e8-947748b22960.jpg"
+    },
+    {
+      "id": 5,
+      "title": "İnci",
+      "explanation": "good shoe",
+      "price": "400$",
+      "imgUrl": "https://cdn-ss.akinon.net/products/2022/02/11/284992/33a83865-09d5-478f-96e8-947748b22960.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Kinetix",
+      "explanation": "good shoe",
+      "price": "420$",
+      "imgUrl": "https://cdn-ss.akinon.net/products/2022/02/11/284992/33a83865-09d5-478f-96e8-947748b22960.jpg"
+    },
+    {
+      "id": 7,
+      "title": "U.S. Polo Assn",
+      "explanation": "good shoe",
+      "price": "450$",
+      "imgUrl": "https://cdn-ss.akinon.net/products/2022/02/11/284992/33a83865-09d5-478f-96e8-947748b22960.jpg"
+    },
+    {
+      "id": 8,
+      "title": "poloris",
+      "explanation": "good shoe",
+      "price": "430$",
+      "imgUrl": "https://cdn-ss.akinon.net/products/2022/02/11/284992/33a83865-09d5-478f-96e8-947748b22960.jpg"
+    },
+    {
+      "id": 9,
+      "title": "bershka",
+      "explanation": "good shoe",
+      "price": "280$",
+      "imgUrl": "https://cdn-ss.akinon.net/products/2022/02/11/284992/33a83865-09d5-478f-96e8-947748b22960.jpg"
+    },
+    {
+      "id": 10,
+      "title": "hummel",
+      "explanation": "good shoe",
+      "price": "280$",
+      "imgUrl": "https://cdn-ss.akinon.net/products/2022/02/11/284992/33a83865-09d5-478f-96e8-947748b22960.jpg"
+    },
+    {
+      "id": 11,
+      "title": "reebok",
+      "explanation": "good shoe",
+      "price": "270$",
+      "imgUrl": "https://cdn-ss.akinon.net/products/2022/02/11/284992/33a83865-09d5-478f-96e8-947748b22960.jpg"
+    }
+  ],
+  "bag": [
+    {
+      "id": 1,
+      "title": "nike",
+      "explanation": "good shoe",
+      "price": "250$",
+      "imgUrl": "https://img2-ipekyol.mncdn.com/mnresize/660/-//ipekyol/products/SS22/Stillife/IS1220052099003.JPG"
+    },
+    {
+      "id": 2,
+      "title": "puma",
+      "explanation": "good shoe",
+      "price": "275$",
+      "imgUrl": "https://img2-ipekyol.mncdn.com/mnresize/660/-//ipekyol/products/SS22/Stillife/IS1220052099003.JPG"
+    },
+    {
+      "id": 3,
+      "title": "Lumberjack",
+      "explanation": "good shoe",
+      "price": "300$",
+      "imgUrl": "https://img2-ipekyol.mncdn.com/mnresize/660/-//ipekyol/products/SS22/Stillife/IS1220052099003.JPG"
+    },
+    {
+      "id": 4,
+      "title": "adidas",
+      "explanation": "good shoe",
+      "price": "350$",
+      "imgUrl": "https://img2-ipekyol.mncdn.com/mnresize/660/-//ipekyol/products/SS22/Stillife/IS1220052099003.JPG"
+    },
+    {
+      "id": 5,
+      "title": "İnci",
+      "explanation": "good shoe",
+      "price": "400$",
+      "imgUrl": "https://img2-ipekyol.mncdn.com/mnresize/660/-//ipekyol/products/SS22/Stillife/IS1220052099003.JPG"
+    },
+    {
+      "id": 6,
+      "title": "Kinetix",
+      "explanation": "good shoe",
+      "price": "420$",
+      "imgUrl": "https://img2-ipekyol.mncdn.com/mnresize/660/-//ipekyol/products/SS22/Stillife/IS1220052099003.JPG"
+    },
+    {
+      "id": 7,
+      "title": "U.S. Polo Assn",
+      "explanation": "good shoe",
+      "price": "450$",
+      "imgUrl": "https://img2-ipekyol.mncdn.com/mnresize/660/-//ipekyol/products/SS22/Stillife/IS1220052099003.JPG"
+    },
+    {
+      "id": 8,
+      "title": "poloris",
+      "explanation": "good shoe",
+      "price": "430$",
+      "imgUrl": "https://img2-ipekyol.mncdn.com/mnresize/660/-//ipekyol/products/SS22/Stillife/IS1220052099003.JPG"
+    },
+    {
+      "id": 9,
+      "title": "bershka",
+      "explanation": "good shoe",
+      "price": "280$",
+      "imgUrl": "https://img2-ipekyol.mncdn.com/mnresize/660/-//ipekyol/products/SS22/Stillife/IS1220052099003.JPG"
+    },
+    {
+      "id": 10,
+      "title": "hummel",
+      "explanation": "good shoe",
+      "price": "280$",
+      "imgUrl": "https://img2-ipekyol.mncdn.com/mnresize/660/-//ipekyol/products/SS22/Stillife/IS1220052099003.JPG"
+    },
+    {
+      "id": 11,
+      "title": "reebok",
+      "explanation": "good shoe",
+      "price": "270$",
+      "imgUrl": "https://img2-ipekyol.mncdn.com/mnresize/660/-//ipekyol/products/SS22/Stillife/IS1220052099003.JPG"
+    }
+  ]
+}
